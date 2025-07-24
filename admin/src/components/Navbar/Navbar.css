@@ -1,0 +1,18 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 8px 4%;
+  background-color: #2196F3; /* or your desired color */
+}
+
+.logo-text {
+  font-size: 28px;
+  font-weight: bold;
+  color: white; /* Change to your preferred color */
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.navbar .profile {
+  width: 40px;
+}
